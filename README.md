@@ -9,7 +9,7 @@ Questions? Comments?:
 
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
-In this lab, you will
+In this lab, you will perform exploratory data analysis on a dataset of personality scores and Facebook statuses.
 
 ---
 
